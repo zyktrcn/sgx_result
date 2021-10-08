@@ -1,0 +1,49 @@
+n: 2
+sealed_data_size: 587
+start: 2951
+end: 11730
+
+n: 4
+sealed_data_size: 587
+start: 3329
+end: 14943
+
+n: 8
+sealed_data_size: 587
+start: 2945
+end: 14190
+
+n: 16
+sealed_data_size: 587
+start: 2909
+end: 14962
+
+n: 32
+sealed_data_size: 587
+start: 2861
+end: 19945
+
+n: 64
+sealed_data_size: 587
+start: 4386
+end: 31992
+
+n: 128
+sealed_data_size: 587
+start: 2690
+end: 36718
+
+n: 256
+sealed_data_size: 587
+start: 2800
+end: 64793
+
+n: 512
+sealed_data_size: 587
+start: 3278
+end: 118997
+
+n: 1024
+sealed_data_size: 587
+start: 2627
+end: 189276
